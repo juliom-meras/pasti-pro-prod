@@ -1,6 +1,6 @@
-# Pasti-med
+# Pasti-pro
 
-Distribución de la app de Android de Pasti-med (medicación y citas para una familia). Este repositorio solo
+Distribución de la app de Android de Pasti-pro (medicación y citas para una familia). Este repositorio solo
 contiene las versiones publicadas; el código fuente no es público.
 
 ## Instalar
@@ -10,6 +10,9 @@ contiene las versiones publicadas; el código fuente no es público.
 3. El manual de uso en PDF va adjunto a cada versión.
 
 Para usar la app hace falta una invitación de la familia.
+
+Antes se llamaba **Pasti-med**. Si la tienes instalada, desinstálala después de instalar Pasti-pro y
+comprobar que funciona; si no, cada aviso sonará dos veces.
 
 ## Comprobar la descarga
 
